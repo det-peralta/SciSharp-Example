@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "predictor": {
+      "commandName": "Project"
+    },
+    "Docker": {
+      "commandName": "Docker"
+    }
+  }
+}
